@@ -4,9 +4,9 @@
 #
 # # Создайте экземпляр класса Calculator:
 # calculator = Calculator()
-# res = calculator.sum(4, 5)
 #
 # # Положительные числа
+# res = calculator.sum(4, 5)
 # print(res)
 # # assert res == 3                   # Метод assert осуществляет проверку результата. Возвращает True or False.
 # assert res == 9                     # Метод assert осуществляет проверку результата. Возвращает True or False.
