@@ -60,7 +60,8 @@ driver_path = r"C:\Users\odnab\PycharmProjects\Python_Auto_QA\Lessons\Lesson_03\
 # Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 # ChromeDriver was started successfully on port 51705.
 
-# Потом во ВТОРОМ ОКНЕ ТЕРМИНАЛА (клацнуть на + чтобы создать Local (2)) консоли выполнить команду:
+# Потом во ВТОРОМ ОКНЕ ТЕРМИНАЛА (клацнуть на + чтобы создать Local (2)) консоли выполнить команду
+# для актуального ПОРТА - _51705_:
 #  __ NOT  WORKING __
 # curl -X POST http://localhost:51705/session -d '{"capabilities": {"browserName": "chrome"}}'
 
