@@ -34,7 +34,7 @@ import requests
 # export PATH="$HOME/Downloads:$PATH"
 
 # Укажите путь к драйверу
-driver_path = r"C:\Users\odnab\PycharmProjects\Python_Auto_QA\Lessons\Lesson_03\chromedriver-win64"
+driver_path = r"/Lessons/Les_03\chromedriver-win64"
 
 # В консоли перейти в папку с ДРАЙВЕРОМ:
 # cd C:\Users\odnab\PycharmProjects\Python_Auto_QA\Lessons\Lesson_03\chromedriver-win64
