@@ -183,9 +183,9 @@ Found (слайд 174), но этот случай тестируется отд
 <div style="font: bold normal 110% sans-serif; color: #8A2BE2; white-space: pre; border-top: 2px dotted #008000; padding: 5px;"></div>  
 
 ## <a id="s4" style="color: #008000">4. GitHub</a>
-Ссылка на отчет по ДЗ <a>comments_hw_07.md</a> со скриншотами: .  
+Ссылка на комментарии по ДЗ <a>comments_hw_07.md</a> со скриншотами: https://github.com/odnabu/Auto-QA-Python/blob/main/Homeworks/HW_07/comments_hw_07.md.  
 
-Ссылка на папку с ДЗ <a>HW_07</a>: .  
+Ссылка на папку с ДЗ <a>HW_07</a>: https://github.com/odnabu/Auto-QA-Python/tree/main/Homeworks/HW_07.  
 
 ---
 <div style="font: bold normal 110% sans-serif; color: #8A2BE2; white-space: pre; border-top: 2px dotted #8A2BE2; padding: 5px; margin: 40px 0 40px 0"></div>
