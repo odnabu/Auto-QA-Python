@@ -3,6 +3,7 @@
 __pycache__/
 *.pyc
 /__pycache__/
+/.env
 
 
 /GitHub_and_PyCharm.md
