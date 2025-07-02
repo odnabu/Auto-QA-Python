@@ -73,6 +73,18 @@ Password: secret_sauce
 
 
 
+
+> Stanislav M. 11:38  
+> Отключить всплывающее системное окно Хрома про небезопасность пароля:   
+> https://github.com/SomeCrab/test_hw_6/blob/master/tests/checkout_test.py   
+> 36 строка:  
+>```python
+>    options.add_argument('--incognito')
+>```
+
+
+
+
 <div style="font: small-caps 120% sans-serif; color: #8A2BE2; padding: 0 15px 0 0;">▣ &nbsp;&nbsp; Проблема решена:</div><p>  
 
 Как в Хром отключить системное всплывающее окно о подтверждении смены пароля:  
