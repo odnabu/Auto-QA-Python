@@ -177,9 +177,9 @@ class BaseTest:
 <div style="font: bold normal 110% sans-serif; color: #8A2BE2; white-space: pre; border-top: 2px dotted #008000; padding: 5px;"></div>  
 
 ## <a id="s4" style="color: #008000">2. GitHub</a>
-Ссылка на комментарии по ДЗ <a>comments_hw_06.md</a> со скриншотами: ____.  
+Ссылка на комментарии по ДЗ <a>comments_hw_06.md</a> со скриншотами: https://github.com/odnabu/Auto-QA-Python/blob/main/Homeworks/HW_06/comments_hw_06.md.  
 
-Ссылка на папку с ДЗ <a>HW_06</a>: ____.  
+Ссылка на папку с ДЗ <a>HW_06</a>: https://github.com/odnabu/Auto-QA-Python/tree/main/Homeworks/HW_06.  
 
 ---
 <div style="font: bold normal 110% sans-serif; color: #8A2BE2; white-space: pre; border-top: 2px dotted #8A2BE2; padding: 5px; margin: 40px 0 40px 0"></div>
