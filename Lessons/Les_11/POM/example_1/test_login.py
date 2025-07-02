@@ -2,7 +2,13 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
+# Тесты теперь вызывают методы LoginPage, а не ищут локаторы вручную:
 from pages.login_page import LoginPage
+
+
+# Тесты структурированы по Page Object Model, что делает их более удобными для поддержки.
+# При изменении локаторов их нужно обновить только в одном месте – в LoginPage,
+# а тесты останутся неизменными.
 
 @pytest.fixture(scope="class")
 def driver():

@@ -45,7 +45,7 @@ API Методы:
 
 <img src="figs/5_101_50_27_8000_docs_Nest Hub_.png" width="450" style="margin: 0 0 0 40px"/>  
 
-<a id="img1" style="margin: 40px; color:#606060;">Fig. 1. Вид страницы http://5.101.50.27:8000/docs#/superuser.
+<a id="img1" style="margin: 0 0 0 40px; color:#606060;">Fig. 1. Вид страницы http://5.101.50.27:8000/docs#/superuser.</a>
 
 
 
@@ -113,7 +113,7 @@ Found (слайд 174), но этот случай тестируется отд
 
 <img src="figs/img_2.png" width="450" style="margin: 0 0 0 40px"/>  
 
-<a id="img2" style="margin: 40px; color:#606060;">Fig. 2. ПАДЕНИЕ Теста 2 с ...info?id={employee_id}") эндпоинтом в employee_api.py.</a>
+<a id="img2" style="margin: 0 0 0 40px; color:#606060;">Fig. 2. ПАДЕНИЕ Теста 2 с ...info?id={employee_id}") эндпоинтом в employee_api.py.</a>
 
 
 ### <a id="ss2.2" style="color: #008000">**2.2.** РЕШЕНИЕ проблемы в Тесте 2</a>
@@ -127,7 +127,7 @@ Found (слайд 174), но этот случай тестируется отд
 
 <img src="figs/img_t2_py.png" width="500" style="margin: 0 0 0 40px"/>  
 
-<a id="img3" style="margin: 40px; color:#606060;">Fig. 3. НОРМАЛЬНО отработавший Тест 2 с эндпоинтом .../info/{employee_id}.</a>
+<a id="img3" style="margin: 0 0 0 40px; color:#606060;">Fig. 3. НОРМАЛЬНО отработавший Тест 2 с эндпоинтом .../info/{employee_id}.</a>
 
 <img src="figs/img_t2_wb_1.png" width="450" style="margin: 0 0 0 40px"/>  
 
@@ -135,7 +135,7 @@ Found (слайд 174), но этот случай тестируется отд
 
 <img src="figs/img_t2_wb_3.png" width="450" style="margin: 0 0 0 40px"/>  
 
-<a id="img4" style="margin: 40px; color:#606060;">Fig. 4. Как должен был отработать Тест 2 по документации 5.101.50.27:8000/docs#.</a>
+<a id="img4" style="margin: 0 0 0 40px; color:#606060;">Fig. 4. Как должен был отработать Тест 2 по документации 5.101.50.27:8000/docs#.</a>
 
 
 
@@ -153,7 +153,7 @@ Found (слайд 174), но этот случай тестируется отд
 
 <img src="figs/img_t3_py_problem_2.png" width="450" style="margin: 0 0 0 40px"/>    
 
-<a id="img5" style="margin: 40px; color:#606060;">Fig. 5. ПАДЕНИЕ Теста 3 без токена и 
+<a id="img5" style="margin: 0 0 0 40px; color:#606060;">Fig. 5. ПАДЕНИЕ Теста 3 без токена и 
 с ...info?id={employee_id} эндпоинтом в employee_api.py.</a>
 
 
@@ -167,7 +167,7 @@ Found (слайд 174), но этот случай тестируется отд
 
 <img src="figs/img_t3_py_solved.png" width="500" style="margin: 0 0 0 40px"/>  
 
-<a id="img5" style="margin: 40px; color:#606060;">Fig. 5. НОРМАЛЬНО отработавший Тест 3 с токеном и измененным эндпоинтом.</a>
+<a id="img5" style="margin: 0 0 0 40px; color:#606060;">Fig. 5. НОРМАЛЬНО отработавший Тест 3 с токеном и измененным эндпоинтом.</a>
 
 <img src="figs/img_t3_wb_1.png" width="450" style="margin: 0 0 0 40px"/>  
 
@@ -175,7 +175,7 @@ Found (слайд 174), но этот случай тестируется отд
 
 <img src="figs/img_t3_wb_3.png" width="450" style="margin: 0 0 0 40px"/>  
 
-<a id="img6" style="margin: 40px; color:#606060;">Fig. 6. Как должен был отработать Тест 3 по документации 5.101.50.27:8000/docs#.</a>
+<a id="img6" style="margin: 0 0 0 40px; color:#606060;">Fig. 6. Как должен был отработать Тест 3 по документации 5.101.50.27:8000/docs#.</a>
 
 
 
